@@ -47,3 +47,8 @@ A React app that embeds your forms on your domain and uses Firebase for auth and
 Portion of Burrito in Logo is designed by [Freepik](www.freepik.com)
 
 https://www.freepik.com/free-vector/kawaii-fast-food-cute-burrito-taco_5769136.htm#page=1&query=burrito&position=6
+
+---
+
+<a href="https://vercel.com/?utm_source=synhacks&utm_campaign=oss"><img src="https://user-images.githubusercontent.com/20099646/92321071-ca5a1900-efdb-11ea-88ab-8f4950974da0.png" alt="Powered by Vercel"/></a>
+
